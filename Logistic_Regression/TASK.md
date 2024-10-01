@@ -2,7 +2,7 @@ Implement Logistic regression from scratch on the given dataset.
 
 No Prebuilt Libraries are allowed.
 
-Predict a function for total charge(TOTCHG) given in the dataset provided and output the accuracy you get.
+Predict a function for chance of rainfall given in the dataset provided and output the accuracy you get.
 
 Learning Resources:
 
