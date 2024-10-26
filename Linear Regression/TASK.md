@@ -1,6 +1,7 @@
 Implement Linear regression from scratch on the given dataset.
 No Prebuilt Libraries are allowed
 Predict a function for total charge(TOTCHG) given in the dataset provided and output the accuracy you get.
+All tasks to be done using Jupyter Notebook
 
 Learning Resources:
 
